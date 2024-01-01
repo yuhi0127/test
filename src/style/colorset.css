@@ -1,0 +1,23 @@
+:root{
+   /* #7091F5 */ /* #45FFCA */ /* #FFA1F5 */ /* #8DDFCB */
+   /* #d9d9ff */ /* #793FDF */ /* #FFFD8C */ /* #793FDF */
+   /* #00ccff */ /* #7091F5 */ /* #f1d4e5 */
+
+/* highlightColor */ /* subColor */ /* BtnColor */ /* bgColor */
+   /* #fce9f1 */ /* #f1d4e5 */ /* #73bbc9 */ /* #080202 */
+   /* #f966a0 */ /* #2b2730 */ /* #6554af */ /* #9575de */
+   /* #ebe76c */ /* #f0b86e */ /* #ed7b7b */ /* #836096 */
+   /* #0e21a0 */ /* #4dedb7 */ /* #9d44c0 */ /* #ec53b0 */
+   /* #fbf0b2 */ /* #ffc7ea */ /* #d8b4f8 */ /* #caedff */
+   /* #ffbb5c */ /* #ff9b50 */ /* #e25e3e */ /* #c63d2f */
+   /* #952323 */ /* #a73121 */ /* #dad4b5 */ /* #f2e8c6 */
+   /* #ffa1f5 */ /* #bc7af9 */ /* #f8ff95 */ /* #a6ff96 */
+
+   --bgColor:#080202;
+   --bgColor2:#080202cf;
+   --fontColor:#fff;
+   --btnFontColor:#000;
+   --subColor:#ffbb5c;/* 아이콘, .back box-shadow색 */
+   --BtnColor:#73bbc9;/* .back 바로가기 배경색, About섹션의 skill  */
+   --highlightColor:#a6ff96;/* Header 밑줄, About섹션 전반적 강조색, Works섹션 프로젝트 이름 */
+}
